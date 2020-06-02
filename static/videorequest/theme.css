@@ -1,0 +1,31 @@
+body {
+  padding-bottom: 30px;
+  background-color: #166960;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+.page-header{
+  background-color: #ecc37d;
+
+}
+.well{
+  background-color: #f3815e;
+}
+.jumbotron{
+  background-color:#DD4A42 ;
+}
+.badge.badge-danger{
+  background-color: #8F0308;
+}
